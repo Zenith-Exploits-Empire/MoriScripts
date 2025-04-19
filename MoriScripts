@@ -1,9 +1,1 @@
-if game.PlaceId == 142823291 or game.PlaceId == 335132309 or game.PlaceId == 636649648 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/kk4ft/MoriScripts/main/MM2"))()
-elseif game.PlaceId == 8737899170 or game.PlaceId == 15502339080 or game.PlaceId == 15588442388 or game.PlaceId == 17503543197 or game.PlaceId == 16498369169 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/kk4ft/MoriScripts/main/PS99"))()
-elseif game.PlaceId == 18901165922 or game.PlaceId == 19006211286 or game.PlaceId == 133783083257328 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/kk4ft/MoriScripts/main/PETSGO"))()
-elseif game.PlaceId == 8737602449 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/kk4ft/MoriScripts/main/PLSDONATE"))()
-end
+not working
